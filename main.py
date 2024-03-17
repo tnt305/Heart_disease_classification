@@ -1,5 +1,5 @@
 import argparse
-from dataset import *
+from dataset.dataset import *
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
