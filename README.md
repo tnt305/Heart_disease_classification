@@ -10,3 +10,16 @@ The Cleveland dataset comprises 14 features including age, gender, chest pain ty
 ## Results:
 ![Results](/fig/result.png)
 
+| id | Algorithm       | Value |
+|----|-----------------|-------|
+| 1  | Decision Tree   | 75    |
+| 2  | Random Forest   | 80    |
+| 3  | SVM             | 67    |
+| 4  | KNN             | 69    |
+| 5  | Naive Bayes     | 84    |
+| 6  | AdaBoost        | 84    |
+| 7  | GradientBoost   | 85    |
+| 8  | XGBoost         | 84    |
+| 9  | **Ensemble**    | **90**   |
+
+
