@@ -1,5 +1,5 @@
 # Predicting the likelihood of a patient developing heart disease
-![Workflow]('/fig/workflow.png')
+![Workflow](/fig/workflow.png)
 
 ## Overview
 
@@ -9,3 +9,4 @@ The Cleveland dataset comprises 14 features including age, gender, chest pain ty
 
 ## Results:
 ![Results](/fig/result.png)
+
